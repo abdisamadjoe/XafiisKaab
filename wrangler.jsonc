@@ -1,0 +1,7 @@
+{
+  "name": "xafiiskaab",
+  "account_id": "76b960545d791ff6c22aa595ab0ecee2", // Koorfolio
+  "compatibility_date": "2026-10-24",
+  "preview_urls": false,
+  "assets": { "directory": "./public" }
+}
